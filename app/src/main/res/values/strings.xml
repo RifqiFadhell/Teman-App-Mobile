@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Teman App</string>
+
+    <string name="on_boarding_title_first">Ga Perlu Ribet Cari Driver</string>
+    <string name="on_boarding_caption_first">Hanya dengan sekali klik dan pilih tujuan, kamu bisa mendapatkan Driver terbaik.</string>
+    <string name="on_boarding_title_second">Duduk santai di rumah makanan Datang</string>
+    <string name="on_boarding_caption_second">Pesan Makanan favorit dan kami akan kirim sampai depan pintu.</string>
+
+
+    <string name="nav_bottom_home">Beranda</string>
+    <string name="nav_bottom_promo">Promo</string>
+    <string name="nav_bottom_order">Pesanan</string>
+    <string name="nav_bottom_notification">Notifikasi</string>
+
+    <string name="nav_food_explore">Eksplor</string>
+    <string name="nav_food_search">Pencarian</string>
+    <string name="nav_food_history">Riwayat</string>
+
+    <string name="order_status_in_progress">Driver sedang menuju tempatmu</string>
+    <string name="order_status_delivered">Pesanan sudah Selesai</string>
+    <string name="order_status_arrived">Pesanan sudah Sampai</string>
+    <string name="order_status_on_route">Pesanan sedang diAntar</string>
+    <string name="order_status_cancelled">Pesanan Dibatalkan</string>
+    <string name="order_status_rejected">Pesanan Ditolak</string>
+    <string name="order_status_accepted">Pesanan Diterima</string>
+    <string name="order_status_requesting">Pesanan sedang diAjukan</string>
+
+    <string name="order_section_title_in_progress">DALAM PROSES</string>
+    <string name="order_section_title_delivered_recently">BARU SAJA</string>
+
+    <string name="take_camera_photo_title">Foto %s</string>
+    <string name="finish_bill">Dibayar ke <b>%1$s</b>\n%2$s</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+    <string name="unstable_connection">Koneksi Internet Kurang Stabil</string>
+
+</resources>
